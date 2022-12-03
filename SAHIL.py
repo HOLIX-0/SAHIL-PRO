@@ -11,7 +11,7 @@ if 'aarch64' in str(current_os):
         os.system('chmod 777 sahil64')
         os.system('./sahil64')
     else:
-        print(' device not spported ... ')
+        print(' error owner nal gal kr ... ')
 else:
     print('\n  Unknown device, aarch or os found, contact author.')
     os.sys.exit()
